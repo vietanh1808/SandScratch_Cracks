@@ -1,0 +1,1442 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35ac442a40af80110c6cdfb46d9a4129, type: 3}
+  m_Name: AddressableLevelDatabase_Normal
+  m_EditorClassIdentifier:
+  levels:
+  - levelRef:
+      m_AssetGUID: 38622be5960b8734f930e304af08f2b4
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants:
+    - variantId: V2
+      levelRef:
+        m_AssetGUID: 571953b7b60ff9947a0b73fb88565298
+        m_SubObjectName:
+        m_SubObjectType:
+    lastVariantNumber: 2
+  - levelRef:
+      m_AssetGUID: cf8cc372cc2d7b4478c07f652b6d10c6
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants:
+    - variantId: V2
+      levelRef:
+        m_AssetGUID: 06adf7a2e810a244a91eeb9c33c7e6ea
+        m_SubObjectName:
+        m_SubObjectType:
+    lastVariantNumber: 2
+  - levelRef:
+      m_AssetGUID: 5bdecc5fe0f357741bac64b23386be3d
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants:
+    - variantId: V2
+      levelRef:
+        m_AssetGUID: 6dacefd090aed5a4c9f2281d00127205
+        m_SubObjectName:
+        m_SubObjectType:
+    lastVariantNumber: 2
+  - levelRef:
+      m_AssetGUID: a15b9b8cec98c5c46921856bd85fa3c6
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants:
+    - variantId: V2
+      levelRef:
+        m_AssetGUID: 9ff1fef6d08481f41a098d8e68d4bb00
+        m_SubObjectName:
+        m_SubObjectType:
+    lastVariantNumber: 2
+  - levelRef:
+      m_AssetGUID: ec5ee3ba0bd118e4d9d9337b20c21984
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants:
+    - variantId: V2
+      levelRef:
+        m_AssetGUID: 0cbd2d5278610ad42939a26fb278d5cd
+        m_SubObjectName:
+        m_SubObjectType:
+    lastVariantNumber: 2
+  - levelRef:
+      m_AssetGUID: 10e108e8a452ef148a279a71b43f0c1c
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 1f0108bce1bd56c45bc5e99138cb768c
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 2409c014781fb6242852608b0024e0ed
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 33d1a2433baac2542b76d50359006f2c
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: f038d493f83898745a5231b53bb0101e
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: af567958503d6b04f8e0ee4d62c6bea4
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 60864dc7d88318f488f22e4c8d86611f
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 8626df2ff9290ce469d8d8e88b432bba
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: eed58f279f86e664da3c861f615f838c
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 7833cbb446037e0489e3c5d68fa69315
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: a139b6e5b4e8aaf419803b9b18cc97ab
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: eac314f1eb1e3884c9215405ff22109a
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 45f1d9b8ceed63b4d91f36b34c4b1cb2
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: c7daee517e387f04e8f197ace03b1ee3
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 65fc2577154cdf44fa56d88f554c762d
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 332606e5a698d8e4d93566d4a244e637
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 460390b07906256438b51daf35ec5e03
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 87733da0ec958f74385a7abda83843d3
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 838e61e08aac9244696d21df37ab5559
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: f094300ef5aabe74ab4311a17e48ae71
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 47441a53727a2924b9dca0d2e30d25e1
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 201a757df366d0f488a8f07d4021d865
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: b660949c19e4ffc4b9df15c36ab3399f
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: a94fe8d598d73a645a16ca19d97d2496
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 0b6693701fbc3244cb7f90a9b193a004
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 54f27e45801eefc4ca29c5f0a9b6e1fa
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 73c79b46f38b02248bbc19db53add389
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 21653e4ceb4972c469d93251998bc1cf
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 3fe2add1cd98bfe4c91c42d162d819a2
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 7616ff2acd2c5df4ca79ee85e6725c82
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 42613b744c43949438f4419c1685606a
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 6267cbd1db50f3e46a3ccabdf43cfda4
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 2a904a68805b9ec4eb50813c30bf92fe
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 1ed0793d6c990504a9f6526cec71dbaf
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: d1f2a1c815838324782475f658eccc75
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 185ba358d5b018240be57f1b2cace3bc
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: b4c43b4dda74047468b2a7dde756935f
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 88cc7f93a7ba87e4ea0d1f83483f56df
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 906ad67b548251a418626529d584b3fc
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 5ba26938bedd911419ba1c4cf13a3c29
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 249861c3210129b419c6fcbb1e788b26
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 57d433d9170ddf1429c03721e467125a
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: c3ff03656155103459254d437c3d120d
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 03d616a4bb3c77c488a6954f90001569
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 9b94af0b2ae36a543a5ffcba04659494
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 6ea63dcefc03bb94893e4d1a65e76953
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 8d33653e04279b447adab70dae463df1
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: e4ad273540465f14ab21a1d290e1b870
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: a02e8c0f09b4e0d4d823f066d5231d9e
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 90118610ce456a347be8584447bc6404
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: ca5c50662ebb007489e5e4d666910ee4
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 6ac79b757b30ecb4b84d764ccf24afcc
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 16304edb5a6c197448eae77b468dedfb
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 598de7510b61596489f1033632d75507
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 64f3123b4f9c3ec42a0d6a7a5642e19d
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 8256498b142d2d34eb057e2ca1b8c62c
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 84c2d12b9a1ba0b4e9a12f8b1f565f1b
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 2353186480ffde8409a40ddf6f5f9dad
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: e9713118c3ecb9449ba2fa1478f7385b
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 53fc001aab64f1748a1c0f2400a6ab13
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 0e926ad1e37de3649b3cc8397b2b7674
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 61fa8561edc647b42b0e171fb5df6b9d
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 99dda460f8172ab42bed74cbe1364db6
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 99c9d48a61a1b954cb9a7c9d9814caca
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: de07a5fa66ad7be4fadfecb0f3415b6d
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 0733e61344c9a384d93e84ed61b06977
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 4cfd6e6f1d9ed4d499b113c679e4e8fd
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 68e6b420c3337644ba2661dbda38c88a
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: d2285affd89ef0147abfa40cd8e462cd
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 33296233ffb456845bef295646005932
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: ccaa5da7b8314894c8b92566e35909e0
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: a0efe9cb82f9e474c912ec94047d4561
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 869ce0d9f45057c44ad2a75d2457f647
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: a0d0c176eca77e849ae996b62fb8b980
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 4b22c173fdc6740429756e683dc101bc
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: c1ea980cdbd2ee54a81a1a769c83c10d
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 66f38b72a0b06d649a9b80dceb621bf5
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 7326c18dc57a7e2499c9078565683803
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: e57ffb6d82f7a4f4f8dbbc52896aca06
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 2ec1e30432b38ed47821ad313d43d6b6
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 521e4bcbb1c37e14bb0580b2f58aeaeb
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 34fe0a4af2d4e7c4e859bd871b41652e
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 9edfaff1b2eb2ca4bb70cf1375433ee9
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 797c577eec857444fae2e43b4b8809b1
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 159cf6b4185013c46952f5098e74a139
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: f2f90a4e1d12c9246a90a391229f65f0
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 408a8c326eba0b849bbe6f729788c235
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 7544a4f7548e5124a9c65c4abbd02c98
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: b77c97b725ced25418aba8f7834ed380
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 495025cf6e4000d468fa83d63a1d4788
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: b9f744f96dec56940b474c31389edf8a
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 9df9c206431cc59499ce34a77ace3760
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: f2fa994566b087c4c9eac1a6b111fec7
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 7ac3f51515eefd34b88a6f070ebbe644
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: a090445cbfff7d44d899c14dfddca5a7
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: b30ef04ae23cc0942b6d447e186194f4
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 6be9cae15cc83f1498bf8778f253bf54
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: be38a2206ce4d7a45b0eb1d720eab9a6
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 657f99cac8fe719409c97336c945dd99
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: e830952a458c20548903339fbe88d94b
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 092cb504996137c4dac7ebeb45778f2d
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: decbb0a97cf42cb41a3a5bb2222bb68c
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 953686f1f4864e644a1725ba2c24241c
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 6ee7e1e5cc4bf204fa6c63337b37ad2f
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 08e0e9f64345ec848bf0291e13ffeda6
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: a32f1b0009aabb2449e7c1ae89bd5ebd
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: e89cd7170ed233b43ac7472ae05d3356
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 05f06f27cfae1a2409b74e84aaef03b8
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: b94f3f4d8a647874ca47350b291c2efd
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 13018e8cdcd48b54baf1252774b03cf1
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 1ccc9deae34128b42a3b866b77e03862
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 70f5128bf27763e4a8d57792d5649586
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 921acb61f92198242b692917ee41396e
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 7fc3896339093d2438dac0ca399c97c6
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: fabfcc2c5dc071042b9b6aa8e48d1509
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: ebe7b41b274990f4f8a81b9d3da8d6ac
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 6c732131b52e7d44b88d56afc8119005
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 6f6666dff5c53994a8c7d7636ed23c2c
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 78c0a4ba3f0a800438eac046d11d2812
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 95d0daa18cc87fa45ad5d31a24f6a9e3
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 3cbf868749d899b4ba34752c3d0459e5
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 35b45d4a54b89b1489d896062c4175bf
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 350cdff6c34b77040ad9f3481fb84024
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 927910b106339b54dbbdff2bf526ff95
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 70c9093de2719e9448435b361fcd0804
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 7c12da778bb53f54e9e09bfe0b0b2584
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: abd87cda8c470204790759992bf0838a
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: f4bb542d5a697ee41841e4616f4deab0
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: c764658766f5b464d83794bb7da6c2b6
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: ef089d689e8abf04f85537db6364a482
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 3b594a18793f852448bd99e4170f3c60
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 7f3c0dcafa21ed34493db8606398c431
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 3cf4325cec9d66740a1a4952bdfb2482
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 8e7fa0ea0ea00524497d2f10755551f2
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 19060b33694ff9b40af1e2332109c2f6
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 094ca8d5e9ec33441b0e479bbc94cc2f
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 2865bd57d9a86d64a9f787f9f0056217
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 181d04ef78a5d3546b93edecc4495234
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 3e4ea9747acf54d46b1c7d733d03f576
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 343f7d1616d9cb44080ac3023d155873
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 91cc487f28665cd4c92ab0f50a9d4576
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: e7ea5d9b1315dad429966215742b660f
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: fa99586067e8bfc4ea816500a12e2e14
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 4d4dc0207b1780b4282ce69f4c7b7f1c
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: a61524cb7b5648a42b8744ff717c3947
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: ea6b035f005e7ae4eb134bdc7d25accd
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: b731267d8baa5fc468358c04bbd4ec9f
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 9b37ab8d2ef43c64b9cc5af6b24039d3
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 57dd868aaeb31f241acefd0cd51c9aa1
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 24b992ad51f1a59478f185ceb8998a2c
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: ea092b664e0dd5e4c991c2499a89d948
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 324f61f48dcbf6941bddf797bfa74835
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 82a260a0ad213174896d1be641f7666b
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: ec0486c3cdd6435459cf3d3fa724661a
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: c277c27b7d4f6aa4dbd6f88cbe64de77
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 6872a38d18a0ce148a6d95c6a7b70604
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 3a7c3145605170a41801c3866f640eb1
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 25d865ecf8980ad45be8f41796fab486
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: b10e9cc06ddedab489de0218bccdd582
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: ddb1fe66f42e5364c869ee2b18be1c8d
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 3a1797458ace41345a24b97fb160fe53
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: c23198bb8022b4444b8cb8a5232a5d8b
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 498c252affc01b44da19d7daa9e0e35a
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 3b34714c9e0c9af468a99fab37f0cc4c
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: a4e85e96393d5ae46952796df6c68542
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 4cec14dd3a6755547ab365b4b5b18f9c
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 22af7d8cf555b3c48a69b72e1cd78e1c
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: d1157d80c98939f468274ccb815ee008
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: cef6da0aea9293548ab63ea4883eb3cb
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 6107a5593ebb62f4aa97b576954839d9
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: db4159cc063b18a4d85c01edbb2e62f6
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: fd703bb398a52a048b8e8ded6925d967
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 2aff8a1b9b1e2e7449b9dff8fa8be823
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: eff5b221f7bec4e4ca8fa4a2ffd46282
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 5c9caefba95426d4db4712cb952bbc03
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 3e9f4af008e45f749ab1280bab25d57e
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: b43f2d4f7a00e494492225366605ae6b
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: af870fcd68a41e147aac426fa80474ed
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 5897f4993c1e9194a84b525e2c5a4c98
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 001606691ff8eec48a947513e230cbf5
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 1a3404c5266d29c4ab55701724bc0bdf
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 5cf00a98af36367408c42a9ebd74cd42
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 60c2023ff20048e4a8568b286c93b564
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: fc317cb4f027e6340bc73c6e65ced25e
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 4e01d76cec723744dafbb498a6ce20ac
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 455a030e254c8dc418c95bb99448beff
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: a4c3e0b52424d9f4582892de64b7828d
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: e78af02c9f561884cb89707132989b6d
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 22df43485e6a1f540a3fa7b3bd93c5c4
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 13b7442fbde9aae4e963e60abc104af4
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 9c68d391f13dd0345bc0799b68c07c40
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: 0be920755790153429c18e075fbe0adf
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 1
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: fd843ffe168d8c14295bef9c552135ff
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 2
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: d3d2853cce05f5c4496952be168dc0f6
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  - levelRef:
+      m_AssetGUID: d233e2644154962419270c86e35550b2
+      m_SubObjectName:
+      m_SubObjectType:
+    difficulty: 3
+    variants: []
+    lastVariantNumber: 0
+  levelEntryExactLength: 200
+  applyRemoteVariants: 1

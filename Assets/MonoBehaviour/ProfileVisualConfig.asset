@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c12c3ec94ede561ce3a0888e2566d9a, type: 3}
+  m_Name: ProfileVisualConfig
+  m_EditorClassIdentifier:
+  avatars:
+  - id: 1
+    sprite: {fileID: 21300000, guid: d8bdd362d70ed1946b2508c360ff1ba2, type: 2}
+  - id: 2
+    sprite: {fileID: 21300000, guid: 7a9eb0aac6c2c9b45b3386af8900b58e, type: 2}
+  - id: 3
+    sprite: {fileID: 21300000, guid: 5c4d88f92a5ec644ea7639f73b32adfe, type: 2}
+  - id: 4
+    sprite: {fileID: 21300000, guid: c546e011fc3d7d6459036bae7e9e445b, type: 2}
+  - id: 5
+    sprite: {fileID: 21300000, guid: c5335a2e6dbe2a14e8d36417c75e2585, type: 2}
+  - id: 6
+    sprite: {fileID: 21300000, guid: dde541cb255750a4f977dea93e229d3a, type: 2}
+  frames:
+  - id: 1
+    sprite: {fileID: 21300000, guid: 3363de25b0f843544974cfe168fd2331, type: 2}
+  - id: 2
+    sprite: {fileID: 21300000, guid: 6f4141ae1c64b80459d5506def37f2fa, type: 2}
+  - id: 3
+    sprite: {fileID: 21300000, guid: 40944ade6ab6c4a4f964d8a8c01cad9f, type: 2}
+  - id: 4
+    sprite: {fileID: 21300000, guid: adcc37289b5091946a515f372d7b56b4, type: 2}
+  - id: 5
+    sprite: {fileID: 21300000, guid: ab7b6cec54be0034a9844cb968907022, type: 2}
+  - id: 6
+    sprite: {fileID: 21300000, guid: 73abe6f016d1e9648bda890f5b12565e, type: 2}
+  - id: 7
+    sprite: {fileID: 21300000, guid: 5a31619c14efd51428847e26c895cd51, type: 2}
+  - id: 8
+    sprite: {fileID: 21300000, guid: 13666e411862fd7448bf54c743b732cc, type: 2}
+  - id: 9
+    sprite: {fileID: 21300000, guid: f6e996e3543b5ab42a5d8a0c362626ee, type: 2}
+  - id: 10
+    sprite: {fileID: 21300000, guid: 9abe8e0a33ffec9469e338a0c93e218d, type: 2}
+  - id: 11
+    sprite: {fileID: 21300000, guid: a3f1b2439b7410a4da90eb247ded8727, type: 2}
+  - id: 12
+    sprite: {fileID: 21300000, guid: 1348d9eac638bfc4da16e8f031a031f2, type: 2}

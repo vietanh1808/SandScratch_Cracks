@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d8ed659a689f732be04bd26bf6ddd1f, type: 3}
+  m_Name: DatabucketsSettings
+  m_EditorClassIdentifier:
+  endpoint: https://ingest.databuckets.com/push?h=ALMA
+  testApiKey: p74NI1fDVup6EzBSbvFDOTlyx78KM8iCxHXrMPlx1HxZYxGBBZvYPtxp2lRR6eUxdP4Rb45lJjO4r9M2VuvQlfRCSDLLosFKD6oQS6E7jPCxUBCSmB4W2VR6OOI2XxD2
+  prodApiKey:
+  forceTestKeyOnDevice: 0
+  verbose: 0

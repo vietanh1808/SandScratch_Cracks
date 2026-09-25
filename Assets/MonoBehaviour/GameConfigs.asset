@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81b17296937b5d356028d5201c76db08, type: 3}
+  m_Name: GameConfigs
+  m_EditorClassIdentifier:
+  defaultSavedGameData: {fileID: 11400000, guid: b934b2874878b9a489e920d71ef60d32, type: 2}
+  gameUIConfig: {fileID: 11400000, guid: f6adfdfa66bdd6e4d8397002a6b7f096, type: 2}
+  testUIConfig: {fileID: 0}
+  gameOverlayUIConfig: {fileID: 11400000, guid: f5798517ff8083b48879034e998c573b, type: 2}
+  shopContentConfig: {fileID: 11400000, guid: a9b90d8bb7b330041b1631f192d14672, type: 2}
+  iapGroupConfig: {fileID: 11400000, guid: cb430cd00c6f2cd4ea0e83b4a0b8202c, type: 2}
+  iapEntitlementConfig: {fileID: 11400000, guid: 69e6995314de3984dad2b040c2111f0a, type: 2}
+  unlockTable: {fileID: 11400000, guid: 1242f9476d6973b4ea0f91a76111a594, type: 2}
+  unlockFeatureConfig: {fileID: 11400000, guid: 1c66ef87083f0d14fa6e8a1b322475ec, type: 2}
+  boosterConfig: {fileID: 11400000, guid: 1b1c1010e90079242abf3b2bcd07a5d2, type: 2}
+  firebaseRemoteConfigData: {fileID: 11400000, guid: 9217062968e55ed448e817f76457828c, type: 2}
+  normalLevelDatabase: {fileID: 11400000, guid: 290b5082a0690d24d9c6eb6cef266b4c, type: 2}
+  hardLevelDatabase: {fileID: 11400000, guid: cb62518e100b5234fb9adb1264b0bf9d, type: 2}
+  timedRegenConfig: {fileID: 11400000, guid: d76a7096736218141aed2a12f4f659bd, type: 2}
+  timedBuffConfig: {fileID: 11400000, guid: 096a6782485a4ab408f9b2b7b281dc7b, type: 2}
+  rateAppConfig: {fileID: 11400000, guid: c043a6317f3d4b644a334f767f45c2b0, type: 2}
+  battlePassConfig: {fileID: 11400000, guid: 8b780250d9bc94c4786fdd7de1e6d510, type: 2}
+  winStreakConfig: {fileID: 0}
+  dailyRewardConfig: {fileID: 11400000, guid: b2583c403bbefd1448bb7221138e61de, type: 2}
+  trophyRoomConfig: {fileID: 11400000, guid: 15dc94ff7e62d94498acadb0c38d517f, type: 2}
+  rewardVisualConfig: {fileID: 11400000, guid: fc350dc4c9cf12841be6adcb1e39e988, type: 2}
+  profileVisualConfig: {fileID: 11400000, guid: 25c2cc6ee75a16242b45a40469c459ed, type: 2}
+  notificationConfig: {fileID: 11400000, guid: ae00be9ef242fda489a0e8d850ced1aa, type: 2}
+  externalLinkConfig: {fileID: 11400000, guid: b3309f8d38944954eb6e72c2bf9a90f8, type: 2}

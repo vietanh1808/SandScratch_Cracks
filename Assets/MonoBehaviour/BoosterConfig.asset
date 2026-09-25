@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3a4278d719e44936915b7cfe1d0c730, type: 3}
+  m_Name: BoosterConfig
+  m_EditorClassIdentifier:
+  configData:
+  - Type: 0
+    Icon: {fileID: 21300000, guid: 8ec001be006036f4fa6e35c4e3ae7330, type: 2}
+    IconProgress: {fileID: 0}
+    IconProgressLocked: {fileID: 0}
+    Clip: {fileID: 0}
+  - Type: 1
+    Icon: {fileID: 21300000, guid: 9aae04188a460f946b64314fd7650d77, type: 2}
+    IconProgress: {fileID: 21300000, guid: 9aae04188a460f946b64314fd7650d77, type: 2}
+    IconProgressLocked: {fileID: 21300000, guid: ff20e06d8b1626645b88a59e450bef06, type: 2}
+    Clip: {fileID: 32900000, guid: 15a99c103b68cb64dbd46f281b305534, type: 3}
+  - Type: 3
+    Icon: {fileID: 21300000, guid: 1adcb65dc7f4fe142ac295364c536a71, type: 2}
+    IconProgress: {fileID: 21300000, guid: 1adcb65dc7f4fe142ac295364c536a71, type: 2}
+    IconProgressLocked: {fileID: 21300000, guid: 0f707709069ea1644b425b7847309bc1, type: 2}
+    Clip: {fileID: 32900000, guid: 00f356ac650753f4b89b23e690dee029, type: 3}
+  - Type: 2
+    Icon: {fileID: 21300000, guid: ee6ce856a94914d488eeb2ac02f71185, type: 2}
+    IconProgress: {fileID: 21300000, guid: ee6ce856a94914d488eeb2ac02f71185, type: 2}
+    IconProgressLocked: {fileID: 21300000, guid: 02b535f9ce824d643a9671d4bbdebd6a, type: 2}
+    Clip: {fileID: 32900000, guid: c4393c85bf38a8f41b27396ce80ed090, type: 3}
+  - Type: 4
+    Icon: {fileID: 21300000, guid: ffee52f13fb49e24d9e4ad0970d4b6da, type: 2}
+    IconProgress: {fileID: 0}
+    IconProgressLocked: {fileID: 0}
+    Clip: {fileID: 0}
+  btnBg:
+    Normal: {fileID: 21300000, guid: c87f4cafe81b16a4fa3ae983a9579b85, type: 2}
+    Hard: {fileID: 21300000, guid: c87f4cafe81b16a4fa3ae983a9579b85, type: 2}
+    VeryHard: {fileID: 21300000, guid: c87f4cafe81b16a4fa3ae983a9579b85, type: 2}
+    Current: {fileID: 0}
+    Sdf:
+      Normal:
+        _metadataAsset: {fileID: 0}
+      Hard:
+        _metadataAsset: {fileID: 0}
+      VeryHard:
+        _metadataAsset: {fileID: 0}
+      Current:
+        _metadataAsset: {fileID: 0}
+  btnLockedBg: {fileID: 21300000, guid: c87f4cafe81b16a4fa3ae983a9579b85, type: 2}
+  lockedLevelBg: {fileID: 21300000, guid: 919fded496c8527479fdba0830d05baa, type: 2}
+  countBg: {fileID: 21300000, guid: 852574595e39a6e478652fa58e2e88a9, type: 2}
+  revokeBg: {fileID: 21300000, guid: 09b3424806d78a44690083a283d3be6d, type: 2}
+  watchAdBg: {fileID: 21300000, guid: 59c03fff6a62f7a409629247c40f95e3, type: 2}
+  alphaRate: 0.8
+  showTime: 0.2

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c019a9386c9a32afb16fec1c1640097, type: 3}
+  m_Name: RewardVisualConfig
+  m_EditorClassIdentifier:
+  entries:
+  - kind: 1
+    icon: {fileID: 21300000, guid: f8058a78887fbc44fb1a2a04623795fd, type: 2}
+    flyEffectOverride: {fileID: 0}
+  - kind: 11
+    icon: {fileID: 21300000, guid: 7868b94cac605ab42a2f0fa5c130743f, type: 2}
+    flyEffectOverride: {fileID: 0}
+  - kind: 10
+    icon: {fileID: 21300000, guid: 4203388245df785469f5819ea703e168, type: 2}
+    flyEffectOverride: {fileID: 0}
+  - kind: 5
+    icon: {fileID: 21300000, guid: efbf9da3c1e47764c9e016e97d80827f, type: 2}
+    flyEffectOverride: {fileID: 0}
+  - kind: 6
+    icon: {fileID: 21300000, guid: ee6ce856a94914d488eeb2ac02f71185, type: 2}
+    flyEffectOverride: {fileID: 0}
+  - kind: 7
+    icon: {fileID: 21300000, guid: 1adcb65dc7f4fe142ac295364c536a71, type: 2}
+    flyEffectOverride: {fileID: 0}
+  - kind: 12
+    icon: {fileID: 21300000, guid: 471957434f6de974c88febbf2b96763a, type: 2}
+    flyEffectOverride: {fileID: 0}
+  defaultFlyEffect: {fileID: 114618682377417806, guid: 26fc731f8dda01443a385c1c8401dd07, type: 2}
+  allBoosterDisplayKinds: 050000000600000007000000

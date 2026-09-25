@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43be265b9d3bf7772c1df5a1f79e1e42, type: 3}
+  m_Name: NotificationConfig
+  m_EditorClassIdentifier:
+  notificationChannel:
+    id: sand_scratch_default
+    channelName: Sand Scratch
+    description: Reminders to come back and play
+  contentEntries:
+  - id: 1
+    title: Lives are full!
+    body: Your hearts are back. Come drop some sand!
+    smallIcon:
+    delayMinutes: 0
+  - id: 2
+    title: We miss you!
+    body: Your sand is waiting. Come back and finish your picture!
+    smallIcon:
+    delayMinutes: 1440

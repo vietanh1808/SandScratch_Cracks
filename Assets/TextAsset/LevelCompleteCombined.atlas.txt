@@ -1,0 +1,90 @@
+
+LevelCompleteCombined.png
+size: 2026,1110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Frame 4
+  rotate: false
+  xy: 953, 873
+  size: 645, 233
+  orig: 652, 251
+  offset: 3, 3
+  index: -1
+Vector
+  rotate: false
+  xy: 666, 4
+  size: 330, 76
+  orig: 330, 76
+  offset: 0, 0
+  index: -1
+complete_C
+  rotate: false
+  xy: 4, 80
+  size: 331, 433
+  orig: 331, 434
+  offset: 0, 1
+  index: -1
+complete_E
+  rotate: false
+  xy: 1731, 85
+  size: 289, 428
+  orig: 289, 428
+  offset: 0, 0
+  index: -1
+complete_L
+  rotate: false
+  xy: 666, 84
+  size: 278, 429
+  orig: 278, 429
+  offset: 0, 0
+  index: -1
+complete_M
+  rotate: false
+  xy: 953, 440
+  size: 397, 429
+  orig: 397, 429
+  offset: 0, 0
+  index: -1
+complete_O
+  rotate: false
+  xy: 1354, 79
+  size: 373, 434
+  orig: 373, 434
+  offset: 0, 0
+  index: -1
+complete_P
+  rotate: false
+  xy: 339, 81
+  size: 323, 432
+  orig: 323, 432
+  offset: 0, 0
+  index: -1
+complete_T
+  rotate: false
+  xy: 1000, 7
+  size: 313, 429
+  orig: 313, 429
+  offset: 0, 0
+  index: -1
+level_E
+  rotate: false
+  xy: 514, 517
+  size: 435, 589
+  orig: 435, 589
+  offset: 0, 0
+  index: -1
+level_L
+  rotate: false
+  xy: 1602, 517
+  size: 420, 589
+  orig: 420, 589
+  offset: 0, 0
+  index: -1
+level_V
+  rotate: false
+  xy: 4, 517
+  size: 506, 589
+  orig: 506, 589
+  offset: 0, 0
+  index: -1

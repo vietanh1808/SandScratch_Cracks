@@ -1,0 +1,769 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d14af98d2aad6793bf1c9b738800b04f, type: 3}
+  m_Name: BattlePassConfig
+  m_EditorClassIdentifier:
+  eventId: battlepass
+  trackMode: 0
+  unlockAtLevel: 32
+  previewAtLevel: 19
+  milestoneRows:
+  - tier: 1
+    stepCost: 1
+    freeEntry:
+      milestoneId: 1
+      rewards:
+      - kind: 10
+        amount: 15
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 1
+      isPremium: 0
+      stepCost: 1
+    premiumEntry:
+      milestoneId: 2
+      rewards:
+      - kind: 12
+        amount: 8
+      multiRewardIcon: {fileID: 21300000, guid: 471957434f6de974c88febbf2b96763a, type: 2}
+      kind: 0
+      amount: 0
+      tier: 1
+      isPremium: 1
+      stepCost: 1
+  - tier: 2
+    stepCost: 2
+    freeEntry:
+      milestoneId: 3
+      rewards:
+      - kind: 7
+        amount: 1
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 2
+      isPremium: 0
+      stepCost: 2
+    premiumEntry:
+      milestoneId: 4
+      rewards:
+      - kind: 6
+        amount: 1
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 2
+      isPremium: 1
+      stepCost: 2
+  - tier: 3
+    stepCost: 3
+    freeEntry:
+      milestoneId: 5
+      rewards:
+      - kind: 5
+        amount: 1
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 3
+      isPremium: 0
+      stepCost: 3
+    premiumEntry:
+      milestoneId: 6
+      rewards:
+      - kind: 10
+        amount: 30
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 3
+      isPremium: 1
+      stepCost: 3
+  - tier: 4
+    stepCost: 4
+    freeEntry:
+      milestoneId: 7
+      rewards:
+      - kind: 10
+        amount: 15
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 4
+      isPremium: 0
+      stepCost: 4
+    premiumEntry:
+      milestoneId: 8
+      rewards:
+      - kind: 7
+        amount: 1
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 4
+      isPremium: 1
+      stepCost: 4
+  - tier: 5
+    stepCost: 5
+    freeEntry:
+      milestoneId: 9
+      rewards:
+      - kind: 1
+        amount: 200
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 5
+      isPremium: 0
+      stepCost: 5
+    premiumEntry:
+      milestoneId: 10
+      rewards:
+      - kind: 1
+        amount: 500
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 5
+      isPremium: 1
+      stepCost: 5
+  - tier: 6
+    stepCost: 6
+    freeEntry:
+      milestoneId: 11
+      rewards:
+      - kind: 1
+        amount: 500
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 6
+      isPremium: 0
+      stepCost: 6
+    premiumEntry:
+      milestoneId: 12
+      rewards:
+      - kind: 5
+        amount: 1
+      - kind: 10
+        amount: 45
+      multiRewardIcon: {fileID: 21300000, guid: c741be346e8380643af2deca7841653e, type: 2}
+      kind: 0
+      amount: 0
+      tier: 6
+      isPremium: 1
+      stepCost: 6
+  - tier: 7
+    stepCost: 7
+    freeEntry:
+      milestoneId: 13
+      rewards:
+      - kind: 5
+        amount: 1
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 7
+      isPremium: 0
+      stepCost: 7
+    premiumEntry:
+      milestoneId: 14
+      rewards:
+      - kind: 7
+        amount: 2
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 7
+      isPremium: 1
+      stepCost: 7
+  - tier: 8
+    stepCost: 8
+    freeEntry:
+      milestoneId: 15
+      rewards:
+      - kind: 10
+        amount: 30
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 8
+      isPremium: 0
+      stepCost: 8
+    premiumEntry:
+      milestoneId: 16
+      rewards:
+      - kind: 5
+        amount: 1
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 8
+      isPremium: 1
+      stepCost: 8
+  - tier: 9
+    stepCost: 9
+    freeEntry:
+      milestoneId: 17
+      rewards:
+      - kind: 6
+        amount: 1
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 9
+      isPremium: 0
+      stepCost: 9
+    premiumEntry:
+      milestoneId: 18
+      rewards:
+      - kind: 1
+        amount: 500
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 9
+      isPremium: 1
+      stepCost: 9
+  - tier: 10
+    stepCost: 10
+    freeEntry:
+      milestoneId: 19
+      rewards:
+      - kind: 1
+        amount: 200
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 10
+      isPremium: 0
+      stepCost: 10
+    premiumEntry:
+      milestoneId: 20
+      rewards:
+      - kind: 6
+        amount: 1
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 10
+      isPremium: 1
+      stepCost: 10
+  - tier: 11
+    stepCost: 11
+    freeEntry:
+      milestoneId: 21
+      rewards:
+      - kind: 5
+        amount: 1
+      - kind: 10
+        amount: 30
+      multiRewardIcon: {fileID: 21300000, guid: e877f84f819e9574081b9745666fe29c, type: 2}
+      kind: 0
+      amount: 0
+      tier: 11
+      isPremium: 0
+      stepCost: 11
+    premiumEntry:
+      milestoneId: 22
+      rewards:
+      - kind: 10
+        amount: 60
+      - kind: 6
+        amount: 1
+      multiRewardIcon: {fileID: 21300000, guid: c741be346e8380643af2deca7841653e, type: 2}
+      kind: 0
+      amount: 0
+      tier: 11
+      isPremium: 1
+      stepCost: 11
+  - tier: 12
+    stepCost: 12
+    freeEntry:
+      milestoneId: 23
+      rewards:
+      - kind: 7
+        amount: 1
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 12
+      isPremium: 0
+      stepCost: 12
+    premiumEntry:
+      milestoneId: 24
+      rewards:
+      - kind: 5
+        amount: 1
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 12
+      isPremium: 1
+      stepCost: 12
+  - tier: 13
+    stepCost: 13
+    freeEntry:
+      milestoneId: 25
+      rewards:
+      - kind: 5
+        amount: 1
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 13
+      isPremium: 0
+      stepCost: 13
+    premiumEntry:
+      milestoneId: 26
+      rewards:
+      - kind: 1
+        amount: 500
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 13
+      isPremium: 1
+      stepCost: 13
+  - tier: 14
+    stepCost: 14
+    freeEntry:
+      milestoneId: 27
+      rewards:
+      - kind: 1
+        amount: 300
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 14
+      isPremium: 0
+      stepCost: 14
+    premiumEntry:
+      milestoneId: 28
+      rewards:
+      - kind: 6
+        amount: 1
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 14
+      isPremium: 1
+      stepCost: 14
+  - tier: 15
+    stepCost: 15
+    freeEntry:
+      milestoneId: 29
+      rewards:
+      - kind: 7
+        amount: 1
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 15
+      isPremium: 0
+      stepCost: 15
+    premiumEntry:
+      milestoneId: 30
+      rewards:
+      - kind: 7
+        amount: 1
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 15
+      isPremium: 1
+      stepCost: 15
+  - tier: 16
+    stepCost: 16
+    freeEntry:
+      milestoneId: 31
+      rewards:
+      - kind: 5
+        amount: 1
+      - kind: 10
+        amount: 15
+      multiRewardIcon: {fileID: 21300000, guid: e877f84f819e9574081b9745666fe29c, type: 2}
+      kind: 0
+      amount: 0
+      tier: 16
+      isPremium: 0
+      stepCost: 16
+    premiumEntry:
+      milestoneId: 32
+      rewards:
+      - kind: 5
+        amount: 1
+      - kind: 10
+        amount: 60
+      multiRewardIcon: {fileID: 21300000, guid: c741be346e8380643af2deca7841653e, type: 2}
+      kind: 0
+      amount: 0
+      tier: 16
+      isPremium: 1
+      stepCost: 16
+  - tier: 17
+    stepCost: 17
+    freeEntry:
+      milestoneId: 33
+      rewards:
+      - kind: 6
+        amount: 1
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 17
+      isPremium: 0
+      stepCost: 17
+    premiumEntry:
+      milestoneId: 34
+      rewards:
+      - kind: 1
+        amount: 500
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 17
+      isPremium: 1
+      stepCost: 17
+  - tier: 18
+    stepCost: 18
+    freeEntry:
+      milestoneId: 35
+      rewards:
+      - kind: 5
+        amount: 1
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 18
+      isPremium: 0
+      stepCost: 18
+    premiumEntry:
+      milestoneId: 36
+      rewards:
+      - kind: 7
+        amount: 1
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 18
+      isPremium: 1
+      stepCost: 18
+  - tier: 19
+    stepCost: 19
+    freeEntry:
+      milestoneId: 37
+      rewards:
+      - kind: 1
+        amount: 300
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 19
+      isPremium: 0
+      stepCost: 19
+    premiumEntry:
+      milestoneId: 38
+      rewards:
+      - kind: 7
+        amount: 1
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 19
+      isPremium: 1
+      stepCost: 19
+  - tier: 20
+    stepCost: 20
+    freeEntry:
+      milestoneId: 39
+      rewards:
+      - kind: 6
+        amount: 1
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 20
+      isPremium: 0
+      stepCost: 20
+    premiumEntry:
+      milestoneId: 40
+      rewards:
+      - kind: 5
+        amount: 1
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 20
+      isPremium: 1
+      stepCost: 20
+  - tier: 21
+    stepCost: 21
+    freeEntry:
+      milestoneId: 41
+      rewards:
+      - kind: 5
+        amount: 1
+      - kind: 10
+        amount: 15
+      multiRewardIcon: {fileID: 21300000, guid: e877f84f819e9574081b9745666fe29c, type: 2}
+      kind: 0
+      amount: 0
+      tier: 21
+      isPremium: 0
+      stepCost: 21
+    premiumEntry:
+      milestoneId: 42
+      rewards:
+      - kind: 1
+        amount: 500
+      - kind: 7
+        amount: 1
+      multiRewardIcon: {fileID: 21300000, guid: c741be346e8380643af2deca7841653e, type: 2}
+      kind: 0
+      amount: 0
+      tier: 21
+      isPremium: 1
+      stepCost: 21
+  - tier: 22
+    stepCost: 22
+    freeEntry:
+      milestoneId: 43
+      rewards:
+      - kind: 5
+        amount: 1
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 22
+      isPremium: 0
+      stepCost: 22
+    premiumEntry:
+      milestoneId: 44
+      rewards:
+      - kind: 7
+        amount: 1
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 22
+      isPremium: 1
+      stepCost: 22
+  - tier: 23
+    stepCost: 23
+    freeEntry:
+      milestoneId: 45
+      rewards:
+      - kind: 7
+        amount: 1
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 23
+      isPremium: 0
+      stepCost: 23
+    premiumEntry:
+      milestoneId: 46
+      rewards:
+      - kind: 6
+        amount: 1
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 23
+      isPremium: 1
+      stepCost: 23
+  - tier: 24
+    stepCost: 24
+    freeEntry:
+      milestoneId: 47
+      rewards:
+      - kind: 1
+        amount: 400
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 24
+      isPremium: 0
+      stepCost: 24
+    premiumEntry:
+      milestoneId: 48
+      rewards:
+      - kind: 10
+        amount: 90
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 24
+      isPremium: 1
+      stepCost: 24
+  - tier: 25
+    stepCost: 25
+    freeEntry:
+      milestoneId: 49
+      rewards:
+      - kind: 6
+        amount: 1
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 25
+      isPremium: 0
+      stepCost: 25
+    premiumEntry:
+      milestoneId: 50
+      rewards:
+      - kind: 1
+        amount: 500
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 25
+      isPremium: 1
+      stepCost: 25
+  - tier: 26
+    stepCost: 26
+    freeEntry:
+      milestoneId: 51
+      rewards:
+      - kind: 5
+        amount: 1
+      - kind: 6
+        amount: 1
+      multiRewardIcon: {fileID: 21300000, guid: e877f84f819e9574081b9745666fe29c, type: 2}
+      kind: 0
+      amount: 0
+      tier: 26
+      isPremium: 0
+      stepCost: 26
+    premiumEntry:
+      milestoneId: 52
+      rewards:
+      - kind: 7
+        amount: 1
+      - kind: 6
+        amount: 1
+      multiRewardIcon: {fileID: 21300000, guid: c741be346e8380643af2deca7841653e, type: 2}
+      kind: 0
+      amount: 0
+      tier: 26
+      isPremium: 1
+      stepCost: 26
+  - tier: 27
+    stepCost: 27
+    freeEntry:
+      milestoneId: 53
+      rewards:
+      - kind: 10
+        amount: 30
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 27
+      isPremium: 0
+      stepCost: 27
+    premiumEntry:
+      milestoneId: 54
+      rewards:
+      - kind: 7
+        amount: 1
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 27
+      isPremium: 1
+      stepCost: 27
+  - tier: 28
+    stepCost: 28
+    freeEntry:
+      milestoneId: 55
+      rewards:
+      - kind: 7
+        amount: 1
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 28
+      isPremium: 0
+      stepCost: 28
+    premiumEntry:
+      milestoneId: 56
+      rewards:
+      - kind: 10
+        amount: 90
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 28
+      isPremium: 1
+      stepCost: 28
+  - tier: 29
+    stepCost: 29
+    freeEntry:
+      milestoneId: 57
+      rewards:
+      - kind: 6
+        amount: 1
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 29
+      isPremium: 0
+      stepCost: 29
+    premiumEntry:
+      milestoneId: 58
+      rewards:
+      - kind: 7
+        amount: 1
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 29
+      isPremium: 1
+      stepCost: 29
+  - tier: 30
+    stepCost: 30
+    freeEntry:
+      milestoneId: 61
+      rewards:
+      - kind: 5
+        amount: 1
+      - kind: 7
+        amount: 1
+      multiRewardIcon: {fileID: 21300000, guid: e877f84f819e9574081b9745666fe29c, type: 2}
+      kind: 0
+      amount: 0
+      tier: 30
+      isPremium: 0
+      stepCost: 30
+    premiumEntry:
+      milestoneId: 62
+      rewards:
+      - kind: 6
+        amount: 1
+      - kind: 7
+        amount: 1
+      - kind: 10
+        amount: 120
+      multiRewardIcon: {fileID: 21300000, guid: c741be346e8380643af2deca7841653e, type: 2}
+      kind: 0
+      amount: 0
+      tier: 30
+      isPremium: 1
+      stepCost: 30
+  milestoneEntries: []
+  premiumProductID: com.puzzle.sandscratch.battlepass
+  keyPerWinNormal: 1
+  keyPerWinHard: 3
+  keyPerWinVeryHard: 5
+  tiersPerAdGate: 4

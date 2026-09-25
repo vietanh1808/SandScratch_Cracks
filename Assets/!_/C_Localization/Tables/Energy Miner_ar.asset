@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Energy Miner_ar
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: ar
+  m_SharedData: {fileID: 11400000, guid: cd6605f67140dc14c840038da55a130b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 145937340895232
+    m_Localized: يبني
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2496912240218114
+    m_Localized: مدة
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2503252215926789
+    m_Localized: مدة رفع المستوى
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25375507246735360
+    m_Localized: سرعة الألغام
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25375507292872704
+    m_Localized: سرعة النقل
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25375507292872705
+    m_Localized: سعة التحميل
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25375507292872706
+    m_Localized: رفع مستوى سرعة الألغام
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25375507292872707
+    m_Localized: رفع مستوى سرعة النقل
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25375507292872708
+    m_Localized: رفع مستوى سعة التحميل
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

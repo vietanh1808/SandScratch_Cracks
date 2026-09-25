@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6333d38c44a4cf21756782e4a9c9e0b3, type: 3}
+  m_Name: TrophyRoomConfig
+  m_EditorClassIdentifier:
+  unlockAtLevel: 150
+  starsPerLevelNormal: 10
+  starsPerLevelHard: 15
+  starsPerLevelVeryHard: 20
+  rooms:
+  - id: 1
+    displayName: Room 1
+    roomLayout:
+      m_AssetGUID: cc1c9a8de82fe2e49b02186ac7f90e7f
+      m_SubObjectName:
+      m_SubObjectType:
+    trophyItemDefs:
+    - id: 1
+      displayName: Trophy 1
+      starCost: 10
+      sprite: {fileID: 0}
+    - id: 2
+      displayName: Trophy 2
+      starCost: 20
+      sprite: {fileID: 0}
+    - id: 3
+      displayName: Trophy 3
+      starCost: 20
+      sprite: {fileID: 0}
+    - id: 4
+      displayName: Trophy 4
+      starCost: 30
+      sprite: {fileID: 0}
+    - id: 5
+      displayName: Trophy 5
+      starCost: 40
+      sprite: {fileID: 0}
+    rewards:
+    - kind: 1
+      amount: 100
+    - kind: 6
+      amount: 1
+  - id: 2
+    displayName: Room 2
+    roomLayout:
+      m_AssetGUID: ff6f519bc093735458323576b503c389
+      m_SubObjectName:
+      m_SubObjectType:
+    trophyItemDefs:
+    - id: 6
+      displayName: Trophy 6
+      starCost: 30
+      sprite: {fileID: 0}
+    - id: 7
+      displayName: Trophy 7
+      starCost: 40
+      sprite: {fileID: 0}
+    - id: 8
+      displayName: Trophy 8
+      starCost: 50
+      sprite: {fileID: 0}
+    - id: 9
+      displayName: Trophy 9
+      starCost: 60
+      sprite: {fileID: 0}
+    - id: 10
+      displayName: Trophy 10
+      starCost: 60
+      sprite: {fileID: 0}
+    rewards:
+    - kind: 1
+      amount: 100
+    - kind: 6
+      amount: 1

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e08fd2cf1def59208bfbe1a87aff58da, type: 3}
+  m_Name: ScreenTransitionConfig
+  m_EditorClassIdentifier:
+  veilColor: {r: 0.52156866, g: 0.59607846, b: 0.9254902, a: 1}
+  coverDuration: 1.2
+  revealDuration: 1
+  holdDuration: 0.8
+  softEdge: 0.25
+  coverMargin: 0.1
+  sortingOrder: 30000
+  irisShader: {fileID: 4800000, guid: 969b7cb8ac2a5d242adf8c32f11f2949, type: 3}

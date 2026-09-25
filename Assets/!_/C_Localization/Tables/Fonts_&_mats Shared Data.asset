@@ -1,0 +1,580 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -299433217, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Fonts_&_mats Shared Data
+  m_EditorClassIdentifier:
+  m_TableCollectionName: Fonts_&_mats
+  m_TableCollectionNameGuidString: 7bac67e6b9ae42e499eb14d788778f7d
+  m_Entries:
+  - m_Id: 305325678596096
+    m_Key: Font_Default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195663543869595648
+    m_Key: black 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195663554036588544
+    m_Key: black_o_white 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195663554674122752
+    m_Key: orange 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195663555345211392
+    m_Key: white 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195663555986939904
+    m_Key: white_o_black 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195663556616085504
+    m_Key: white_o_blue 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195663557287174144
+    m_Key: white_o_blue 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195663557962457088
+    m_Key: white_o_blue 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 202227690995863552
+    m_Key: white_o_blue 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195663558595796992
+    m_Key: white_o_blue Tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195663559237525504
+    m_Key: white_o_brown 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195663559879254016
+    m_Key: white_o_green 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195663560512593920
+    m_Key: white_o_grey 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195663561150128128
+    m_Key: white_o_purple 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195663868307398656
+    m_Key: white_o_red 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195663894039453696
+    m_Key: yellow_o_brown 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 204716045663428608
+    m_Key: white_o_yellow_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 205001721415950336
+    m_Key: purple 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 205001744899858432
+    m_Key: blue 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208313123418742784
+    m_Key: white_o_green 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208313127126507520
+    m_Key: white_o_purple 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208313129517260800
+    m_Key: white_o_red 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208316217934290944
+    m_Key: white_o_green 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208316221507837952
+    m_Key: white_o_purple 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208316224947167232
+    m_Key: white_o_red 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208316291368165376
+    m_Key: white_o_green 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208316294702637056
+    m_Key: white_o_purple 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208316295830904832
+    m_Key: white_o_red 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 233350978901934080
+    m_Key: white_o_cyan 1
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items:
+    - rid: 6212488113378557982
+    - rid: 620264367929950220
+  m_KeyGenerator:
+    rid: 5201885876560855067
+  references:
+    version: 2
+    RefIds:
+    - rid: 620264367929950220
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 195663543869595648
+          m_TableCodes:
+          - en
+          - vi
+          - ar
+          - de
+          - es
+          - fr
+          - he
+          - it
+          - ja
+          - ko
+          - ru
+          - pt
+        - m_KeyId: 195663894039453696
+          m_TableCodes:
+          - en
+          - vi
+          - ar
+          - de
+          - es
+          - fr
+          - he
+          - it
+          - ja
+          - ko
+          - ru
+          - pt
+        - m_KeyId: 195663868307398656
+          m_TableCodes:
+          - en
+          - vi
+          - ar
+          - de
+          - es
+          - fr
+          - he
+          - it
+          - ja
+          - ko
+          - ru
+          - pt
+        - m_KeyId: 195663561150128128
+          m_TableCodes:
+          - en
+          - vi
+          - ar
+          - de
+          - es
+          - fr
+          - he
+          - it
+          - ja
+          - ko
+          - ru
+          - pt
+        - m_KeyId: 195663560512593920
+          m_TableCodes:
+          - en
+          - vi
+          - ar
+          - de
+          - es
+          - fr
+          - he
+          - it
+          - ja
+          - ko
+          - ru
+          - pt
+        - m_KeyId: 195663559879254016
+          m_TableCodes:
+          - en
+          - vi
+          - ar
+          - de
+          - es
+          - fr
+          - he
+          - it
+          - ja
+          - ko
+          - ru
+          - pt
+        - m_KeyId: 195663559237525504
+          m_TableCodes:
+          - en
+          - vi
+          - ar
+          - de
+          - es
+          - fr
+          - he
+          - it
+          - ja
+          - ko
+          - ru
+          - pt
+        - m_KeyId: 195663558595796992
+          m_TableCodes:
+          - en
+          - vi
+          - ar
+          - de
+          - es
+          - fr
+          - he
+          - it
+          - ja
+          - ko
+          - ru
+          - pt
+        - m_KeyId: 195663557962457088
+          m_TableCodes:
+          - en
+          - vi
+          - ar
+          - de
+          - es
+          - fr
+          - he
+          - it
+          - ja
+          - ko
+          - ru
+          - pt
+        - m_KeyId: 195663557287174144
+          m_TableCodes:
+          - en
+          - vi
+          - ar
+          - de
+          - es
+          - fr
+          - he
+          - it
+          - ja
+          - ko
+          - ru
+          - pt
+        - m_KeyId: 195663556616085504
+          m_TableCodes:
+          - en
+          - vi
+          - ar
+          - de
+          - es
+          - fr
+          - he
+          - it
+          - ja
+          - ko
+          - ru
+          - pt
+        - m_KeyId: 195663555986939904
+          m_TableCodes:
+          - en
+          - vi
+          - ar
+          - de
+          - es
+          - fr
+          - he
+          - it
+          - ja
+          - ko
+          - ru
+          - pt
+        - m_KeyId: 195663555345211392
+          m_TableCodes:
+          - en
+          - vi
+          - ar
+          - de
+          - es
+          - fr
+          - he
+          - it
+          - ja
+          - ko
+          - ru
+          - pt
+        - m_KeyId: 195663554674122752
+          m_TableCodes:
+          - en
+          - vi
+          - ar
+          - de
+          - es
+          - fr
+          - he
+          - it
+          - ja
+          - ko
+          - ru
+          - pt
+        - m_KeyId: 195663554036588544
+          m_TableCodes:
+          - en
+          - vi
+          - ar
+          - de
+          - es
+          - fr
+          - he
+          - it
+          - ja
+          - ko
+          - ru
+          - pt
+        - m_KeyId: 202227690995863552
+          m_TableCodes:
+          - en
+          - vi
+          - ar
+          - de
+          - es
+          - fr
+          - he
+          - it
+          - ja
+          - ko
+          - ru
+          - pt
+        - m_KeyId: 204716045663428608
+          m_TableCodes:
+          - en
+          - vi
+          - ar
+          - de
+          - es
+          - fr
+          - he
+          - it
+          - ja
+          - ko
+          - ru
+          - pt
+        - m_KeyId: 205001721415950336
+          m_TableCodes:
+          - en
+          - vi
+          - ar
+          - de
+          - es
+          - fr
+          - he
+          - it
+          - ja
+          - ko
+          - ru
+          - pt
+        - m_KeyId: 205001744899858432
+          m_TableCodes:
+          - en
+          - vi
+          - ar
+          - de
+          - es
+          - fr
+          - he
+          - it
+          - ja
+          - ko
+          - ru
+          - pt
+        - m_KeyId: 208313123418742784
+          m_TableCodes:
+          - en
+          - vi
+          - ar
+          - de
+          - es
+          - fr
+          - he
+          - it
+          - ja
+          - ko
+          - ru
+          - pt
+        - m_KeyId: 208313127126507520
+          m_TableCodes:
+          - en
+          - vi
+          - ar
+          - de
+          - es
+          - fr
+          - he
+          - it
+          - ja
+          - ko
+          - ru
+          - pt
+        - m_KeyId: 208313129517260800
+          m_TableCodes:
+          - en
+          - vi
+          - ar
+          - de
+          - es
+          - fr
+          - he
+          - it
+          - ja
+          - ko
+          - ru
+          - pt
+        - m_KeyId: 208316217934290944
+          m_TableCodes:
+          - en
+          - vi
+          - ar
+          - de
+          - es
+          - fr
+          - he
+          - it
+          - ja
+          - ko
+          - ru
+          - pt
+        - m_KeyId: 208316291368165376
+          m_TableCodes:
+          - en
+          - vi
+          - ar
+          - de
+          - es
+          - fr
+          - he
+          - it
+          - ja
+          - ko
+          - ru
+          - pt
+        - m_KeyId: 208316221507837952
+          m_TableCodes:
+          - en
+          - vi
+          - ar
+          - de
+          - es
+          - fr
+          - he
+          - it
+          - ja
+          - ko
+          - ru
+          - pt
+        - m_KeyId: 208316294702637056
+          m_TableCodes:
+          - en
+          - vi
+          - ar
+          - de
+          - es
+          - fr
+          - he
+          - it
+          - ja
+          - ko
+          - ru
+          - pt
+        - m_KeyId: 208316224947167232
+          m_TableCodes:
+          - en
+          - vi
+          - ar
+          - de
+          - es
+          - fr
+          - he
+          - it
+          - ja
+          - ko
+          - ru
+          - pt
+        - m_KeyId: 208316295830904832
+          m_TableCodes:
+          - en
+          - vi
+          - ar
+          - de
+          - es
+          - fr
+          - he
+          - it
+          - ja
+          - ko
+          - ru
+          - pt
+        - m_KeyId: 233350978901934080
+          m_TableCodes:
+          - en
+          - vi
+          - ar
+          - de
+          - es
+          - fr
+          - he
+          - it
+          - ja
+          - ko
+          - ru
+          - pt
+        m_TypeString: UnityEngine.Material, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    - rid: 5201885876560855067
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1730368765839
+    - rid: 6212488113378557982
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 305325678596096
+          m_TableCodes:
+          - en
+          - vi
+          - ar
+          - de
+          - es
+          - fr
+          - he
+          - it
+          - ja
+          - ko
+          - ru
+          - pt
+        m_TypeString: TMPro.TMP_FontAsset, Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null

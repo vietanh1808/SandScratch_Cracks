@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6c6fb1cedc2cb4668470f62f3b73ea5, type: 3}
+  m_Name: UnlockFeatureConfig
+  m_EditorClassIdentifier:
+  unlockDatas:
+  - Type: 1
+    FTUEClip: {fileID: 32900000, guid: 6e76b7db468b3c348ae3a4ec102860f6, type: 3}
+    Icon: {fileID: 0}
+  - Type: 2
+    FTUEClip: {fileID: 32900000, guid: e4dfd5e8b7ef3524194982e06b06ca43, type: 3}
+    Icon: {fileID: 0}
+  - Type: 3
+    FTUEClip: {fileID: 0}
+    Icon: {fileID: 0}
+  - Type: 4
+    FTUEClip: {fileID: 0}
+    Icon: {fileID: 0}
+  - Type: 5
+    FTUEClip: {fileID: 0}
+    Icon: {fileID: 0}
+  - Type: 6
+    FTUEClip: {fileID: 0}
+    Icon: {fileID: 0}

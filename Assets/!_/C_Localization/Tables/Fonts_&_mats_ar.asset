@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -149288805, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Fonts_&_mats_ar
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: ar
+  m_SharedData: {fileID: 11400000, guid: 4a79e631973e56542a4fc51eb748f2fd, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 305325678596096
+    m_Localized: 1feb0453b63b86b4483363b5608bc267
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195663543869595648
+    m_Localized: 15623305da2f8904cac970c7e4aee7db
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195663554036588544
+    m_Localized: 598b9dd60049ef447aee4d357f2d725d
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195663554674122752
+    m_Localized: 1671a80feffd18646ac9064463ecffd9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195663555345211392
+    m_Localized: f528adeee261d494faa9e080d73c6dc3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195663555986939904
+    m_Localized: 248f5d27238268b45b9901f3a4cc9418
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195663556616085504
+    m_Localized: 5ebaeff0c8009a540981bbbd62148f0d
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195663557287174144
+    m_Localized: bfd5f706bc890314bbed2e6cefe98729
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195663557962457088
+    m_Localized: ee26a4337fde8e14abbca13e350f33c9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 202227690995863552
+    m_Localized: 227d9db7b6a4d5347a16abbc0d814a95
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195663558595796992
+    m_Localized: 6c9a7f4b38fa6c74f8cdf3e15085adf7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195663559237525504
+    m_Localized: 4b78db394320e0f43ba34710d258f130
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195663559879254016
+    m_Localized: e35bf269c8f16ba4aa0afd6edb2957b7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195663560512593920
+    m_Localized: b50bc727602d7764d9d9d4d0c639be02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195663561150128128
+    m_Localized: bd9c009926c78134dbf86484fc6581c7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195663868307398656
+    m_Localized: 42d0ac662417a0b42869e0bda0593deb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195663894039453696
+    m_Localized: 7090920e18f1a0646a9976c65ffeaa94
+    m_Metadata:
+      m_Items: []
+  - m_Id: 204716045663428608
+    m_Localized: 6b527103f67bd48449672cce544f8699
+    m_Metadata:
+      m_Items: []
+  - m_Id: 205001721415950336
+    m_Localized: 9565683af2929f1489c0820d391a9aaf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 205001744899858432
+    m_Localized: 59185481f08fd1144a5b0948645ac46b
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208313123418742784
+    m_Localized: 29eff21c0308b9c45b7d824a4216e936
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208313127126507520
+    m_Localized: efb6cc5c301acda44a07c84590544fc6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208313129517260800
+    m_Localized: 028acd880be873c49829de716e65fd86
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208316217934290944
+    m_Localized: 1c028b7ebe29d954e8a6e2f39161d843
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208316221507837952
+    m_Localized: efc94bc34fe45a7469e0e6cbbc490851
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208316224947167232
+    m_Localized: 4596b04a9871ec942994713bd620708e
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208316291368165376
+    m_Localized: fdb5d0da2ed568d44a6a480b3292d31f
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208316294702637056
+    m_Localized: 4642e3062fc5c594abd23f04b1f28d88
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208316295830904832
+    m_Localized: f2050ae250e1788439ce7a5cc9e073c1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 233350978901934080
+    m_Localized: b4e2276581ea6d34f88c1a9b71104b2f
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

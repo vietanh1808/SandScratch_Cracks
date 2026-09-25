@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a83f451484b994c81df814ca98acdf04, type: 3}
+  m_Name: TutorialFlow - Booster Hammer
+  m_EditorClassIdentifier:
+  type: 5
+  activeInLevel: 9
+  steps:
+  - {fileID: 11400000, guid: ce20074b337c6e745bd6f0b17038f860, type: 2}
+  OnCompleteEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  beltFillColor: 0
+  beltFillRatio: 1
+  extraColorJarRows: []
+  conveyorPrefill: []

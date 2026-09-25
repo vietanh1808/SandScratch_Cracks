@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a83f451484b994c81df814ca98acdf04, type: 3}
+  m_Name: TutorialFlow - Booster Blower
+  m_EditorClassIdentifier:
+  type: 6
+  activeInLevel: 6
+  steps:
+  - {fileID: 11400000, guid: 75554c1762c0213468b1c57170fa30e9, type: 2}
+  OnCompleteEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  beltFillColor: 0
+  beltFillRatio: 1
+  extraColorJarRows:
+  - rowIndex: 2
+    jars:
+    - color: 27
+      capacity: 1800
+      hidden: 0
+      connectorId: 0
+      wide: 0
+      tall: 0
+    - color: 27
+      capacity: 1800
+      hidden: 0
+      connectorId: 0
+      wide: 0
+      tall: 0
+    - color: 27
+      capacity: 1800
+      hidden: 0
+      connectorId: 0
+      wide: 0
+      tall: 0
+    - color: 27
+      capacity: 1200
+      hidden: 0
+      connectorId: 0
+      wide: 0
+      tall: 0
+  conveyorPrefill:
+  - color: 27
+    grainCount: 2200

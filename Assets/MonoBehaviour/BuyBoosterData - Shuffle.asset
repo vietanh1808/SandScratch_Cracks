@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f86390fcf5ab6d4bc50f7b551cfd45fd, type: 3}
+  m_Name: BuyBoosterData - Shuffle
+  m_EditorClassIdentifier:
+  boosterType: 1
+  iconSprite: {fileID: 21300000, guid: efbf9da3c1e47764c9e016e97d80827f, type: 2}
+  totalBonus: 3
+  title: Shuffle
+  description: Shuffle the top-line color box
+  totalCoin: 1500

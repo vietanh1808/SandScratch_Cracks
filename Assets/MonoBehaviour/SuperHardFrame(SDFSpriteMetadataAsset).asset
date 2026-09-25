@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1342230471, guid: f5c1a6a2b2c7b125f7135fc75ba4a973, type: 3}
+  m_Name: SuperHardFrame(SDFSpriteMetadataAsset)
+  m_EditorClassIdentifier:
+  _metadata:
+    SourceSprite: {fileID: 21300000, guid: 7da835316fd44f94a906c7c03342a6bf, type: 2}
+    SDFSprite: {fileID: 21300000, guid: 43d52bc3bb6505a49a93f2fc29c59fbf, type: 2}
+    BorderOffset: {x: 64, y: 64, z: 64, w: 64}
+  _isImportedDecoupled: 0

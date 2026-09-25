@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69996a0aa65e0ceab0acca558228d4a9, type: 3}
+  m_Name: SavedGameDataContainer Default
+  m_EditorClassIdentifier:
+  gameData:
+    currentVersion: 1
+    savedPlayerProgressData:
+      currentVersion: 3
+      coin: 0
+      gem: 0
+      star: 0
+      level: 1
+      currentLevelAttempt: 0
+      currentLevelLoseIndex: 0
+      currentLevelExitIndex: 0
+      currentLevelDurationTotal: 0
+      lastAttemptProgressPosX: -9999
+      winStreak: 0
+      loseStreak: 0
+      activeDayCount: 0
+      lastActiveDate:
+      loginStreak: 0
+      highestWinStreak: 0
+      firstTryWinCount: 0
+      savedBoosterData:
+        currentVersion: 2
+        boosterDataPoints: []
+      savedFeatureData:
+        currentVersion: 1
+        featureDataPoints: []
+      savedTutorialData:
+        currentVersion: 1
+        tutorialDataPoints: []
+      savedRegenData:
+        currentVersion: 1
+        regenPoints: []
+      savedBuffData:
+        currentVersion: 1
+        buffPoints: []
+      savedRateAppData:
+        currentVersion: 1
+        winsSinceLastPrompt: 0
+        lastPromptUtcTicks: 0
+        promptCount: 0
+        versionLastRated:
+      savedPendingAbandonData:
+        currentVersion: 2
+        hasPending: 0
+        backgroundUtcTicks: 0
+        sessionId:
+        timeSpent: 0
+        itemsTotal: 0
+        itemsCleared: 0
+        playType: 0
+        variantId:
+      savedBattlePassData:
+        currentVersion: 2
+        savedWalletIntData:
+          currentVersion: 1
+          earned: 0
+        savedTrackData:
+          currentVersion: 1
+          claimedMilestoneIds:
+          premiumUnlocked: 0
+        savedAdGateData:
+          currentVersion: 4
+          claimedFreeTiersAtLastAdReset: 0
+          baselineSeeded: 0
+      savedDailyRewardData:
+        currentVersion: 1
+        cycleStartUtcTicks: 0
+        lastClaimUtcTicks: 0
+        claimedSlotsInCycle:
+        cycleCount: 0
+      savedTrophyRoomData:
+        currentVersion: 2
+        ownedItemIds:
+        starBackfillDone: 0
+        lastPaidLevel: -1
+        pendingCompletion:
+          roomId: -1
+          rewards: []
+        hasVisited: 0
+      savedProfileData:
+        currentVersion: 1
+        playerName:
+        avatarId:
+        frameId:
+      selectedGameTheme: 0
+      savedLocalizationData:
+        currentVersion: 1
+        activeLocale: 0
+    savedUserData:
+      currentVersion: 1
+      userId:
+      lastTimeLogin:
+        _dateTime: 1/1/0001 12:00:00 AM
+      lastTimeLogout:
+        _dateTime: 1/1/0001 12:00:00 AM
+      sessionsPlayed: 1
+      lastTimeClaimedAds:
+        _dateTime: 1/1/0001 12:00:00 AM
+    savedBuyData:
+      currentVersion: 1
+      buyNoAds: 0
+      rated: 0
+      shownNoAdsOffer: 0
+      ownedProductIDs: []
+      iapCount: 0
+    savedSettingData:
+      currentVersion: 1
+      enablePn: 1
+      requestedPn: 0
+      iosTrackingRequested: 0
+      bgmVolume: 1
+      sfxVolume: 1
+      enableMusic: 1
+      enableSfx: 1
+      enableCoinMergeSound: 1
+      enableHaptic: 1
+      highPerformance: 1

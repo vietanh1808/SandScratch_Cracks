@@ -1,0 +1,1116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aac08641cbaa6d89a53d9c382dc503ae, type: 3}
+  m_Name: IAPSettings
+  m_EditorClassIdentifier:
+  categoryList:
+  - referenceID: 8dc6cc3d-a157-42fa-bb29-d8ea00e3423e
+    ID: Category Coin
+    storeIDs: []
+  - referenceID: 3097ec21-dab5-4a80-82d4-1cfe4b4c54e7
+    ID: Category Gem
+    storeIDs: []
+  - referenceID: 57f68752-04ea-481c-8844-c9ca3141d336
+    ID: Category Ads
+    storeIDs: []
+  - referenceID: d2473fd0-9e26-4c5e-88e2-ca2f1718b4cb
+    ID: Category Pass
+    storeIDs: []
+  - referenceID: 54cdb1f5-ccdd-498a-bb7b-a658b4bf7532
+    ID: Category Subscription
+    storeIDs: []
+  - referenceID: 2cc7f5ff-954f-45d6-adab-485eea63e7ae
+    ID: Category Booster
+    storeIDs: []
+  - referenceID: 9bddf98f-c492-4636-bced-850c4d335169
+    ID: Category Premium
+    storeIDs: []
+  - referenceID: 5828302c-b240-4850-a91a-10b212f1255c
+    ID: Category 06
+    storeIDs: []
+  - referenceID: 41ce255e-edc1-496e-871e-01cda8f0a8ec
+    ID: Category 07
+    storeIDs: []
+  - referenceID: 39841d36-a030-4270-988c-b1d99708b47f
+    ID: Category 08
+    storeIDs: []
+  - referenceID: 5bb483c1-953a-4b56-a703-aa9e86ca185b
+    ID: Category 09
+    storeIDs: []
+  - referenceID: ebb00b17-b647-4c77-b50f-ee9e7c4ba0ca
+    ID: Category 10
+    storeIDs: []
+  - referenceID: c08b3258-153a-4184-852d-30f2fcfa8742
+    ID: OneTime
+    storeIDs: []
+  currencyList:
+  - referenceID: 220be08c-be6d-4e63-a0c7-48b629257b77
+    ID: coins
+    baseAmount: 0
+    maxAmount: 0
+    icon: {fileID: 21300000, guid: 0cd3bf9152aa798448bd50d76c2a453f, type: 2}
+  - referenceID: e07bf7b8-a2cb-4045-b9f1-a2081452cfbe
+    ID: gems
+    baseAmount: 0
+    maxAmount: 0
+    icon: {fileID: 21300000, guid: 69a76bed6592d874ca08e42370528ab8, type: 2}
+  - referenceID: c8dc30cc-5084-4923-9261-4d4aba00d3f2
+    ID: all_booster
+    baseAmount: 0
+    maxAmount: 0
+    icon: {fileID: 0}
+  - referenceID: 62689d56-fa93-48cd-b276-5d7a49d38448
+    ID: infinite_heart
+    baseAmount: 0
+    maxAmount: 0
+    icon: {fileID: 0}
+  productList:
+  - referenceID: 61c76a0b-4af7-427e-9aad-a1c3942e5ecb
+    ID: com.puzzle.sandscratch.gem5dollar
+    storeIDs: []
+    category:
+      rid: 911807634416074896
+    type: 0
+    title: Handfull of Gems
+    description: Get 500 gems
+    discount: 0
+    fetch: 1
+    icon: {fileID: 21300000, guid: be7576fe714ee094bab26216f136c92a, type: 2}
+    priceList:
+    - type: 0
+      currency:
+        rid: -2
+      product:
+        rid: -2
+      amount: 0
+      realPrice: 4.99 $
+    rewardList:
+    - type: 1
+      currency:
+        rid: 7437101620655292430
+      product:
+        rid: -2
+      amount: 500
+      realPrice:
+    requirement:
+      pairs: []
+      label:
+    nextUpgrade:
+      rid: -2
+  - referenceID: c3300b1c-9447-410e-b549-7a20eca11902
+    ID: com.puzzle.sandscratch.gem10dollar
+    storeIDs: []
+    category:
+      rid: 7437101620655292429
+    type: 0
+    title: Gem 2
+    description: Get 1125 gems
+    discount: 0
+    fetch: 1
+    icon: {fileID: 21300000, guid: 66a3960a1be1117448f329d308b7db39, type: 2}
+    priceList:
+    - type: 0
+      currency:
+        rid: -2
+      product:
+        rid: -2
+      amount: 0
+      realPrice: 9.99 $
+    rewardList:
+    - type: 1
+      currency:
+        rid: 7437101620655292430
+      product:
+        rid: -2
+      amount: 1125
+      realPrice:
+    requirement:
+      pairs: []
+      label:
+    nextUpgrade:
+      rid: -2
+  - referenceID: c16bcb02-46d4-4a10-8452-456dba57b733
+    ID: com.puzzle.sandscratch.gem20dollar
+    storeIDs: []
+    category:
+      rid: 7437101616570302498
+    type: 0
+    title: Gem 3
+    description: Get 2500 gems
+    discount: 0
+    fetch: 1
+    icon: {fileID: 21300000, guid: fcba305ad38d98b439d023fbef1964c7, type: 2}
+    priceList:
+    - type: 0
+      currency:
+        rid: -2
+      product:
+        rid: -2
+      amount: 0
+      realPrice: 19.99 $
+    rewardList:
+    - type: 1
+      currency:
+        rid: 7437101620655292430
+      product:
+        rid: -2
+      amount: 2500
+      realPrice:
+    requirement:
+      pairs: []
+      label:
+    nextUpgrade:
+      rid: -2
+  - referenceID: c86a82fb-1f3d-40ca-b795-d8c690154d0f
+    ID: com.puzzle.sandscratch.noads
+    storeIDs: []
+    category:
+      rid: 6880862928584310967
+    type: 1
+    title: noads
+    description:
+    discount: 0
+    fetch: 1
+    icon: {fileID: 0}
+    priceList:
+    - type: 0
+      currency:
+        rid: -2
+      product:
+        rid: -2
+      amount: 0
+      realPrice: $9.99
+    rewardList: []
+    requirement:
+      pairs: []
+      label:
+    nextUpgrade:
+      rid: -2
+  - referenceID: 1ed04267-1ad7-467b-8732-888849bb44d6
+    ID: com.puzzle.sandscratch.testsubsyearly
+    storeIDs: []
+    category:
+      rid: 7437101644421005312
+    type: 2
+    title: Remove ads Annual
+    description: remove ads all ads at a year
+    discount: 0
+    fetch: 0
+    icon: {fileID: 21300000, guid: 256d6fc88b2486f488ece7ebeb4327cf, type: 2}
+    priceList:
+    - type: 0
+      currency:
+        rid: -2
+      product:
+        rid: -2
+      amount: 0
+      realPrice: 49.99 $
+    rewardList:
+    - type: 2
+      currency:
+        rid: -2
+      product:
+        rid: 7437101644421005313
+      amount: 1
+      realPrice:
+    requirement:
+      pairs: []
+      label:
+    nextUpgrade:
+      rid: -2
+  - referenceID: f9470693-026e-4c27-a740-081fd3f78831
+    ID: com.puzzle.sandscratch.testsubsmonthly
+    storeIDs: []
+    category:
+      rid: 7437101644421005312
+    type: 2
+    title: Remove Ads Monthly
+    description: remove ads all ads at a month
+    discount: 0
+    fetch: 0
+    icon: {fileID: 21300000, guid: 256d6fc88b2486f488ece7ebeb4327cf, type: 2}
+    priceList:
+    - type: 0
+      currency:
+        rid: -2
+      product:
+        rid: -2
+      amount: 0
+      realPrice: 9.99 $
+    rewardList:
+    - type: 2
+      currency:
+        rid: -2
+      product:
+        rid: 7437101644421005314
+      amount: 1
+      realPrice:
+    requirement:
+      pairs: []
+      label:
+    nextUpgrade:
+      rid: -2
+  - referenceID: d0c8a85c-6e41-4f05-a362-a0b9b784ff57
+    ID: com.puzzle.sandscratch.failoffer
+    storeIDs: []
+    category:
+      rid: 6880862855471038464
+    type: 1
+    title: failoffer
+    description:
+    discount: 0
+    fetch: 1
+    icon: {fileID: 0}
+    priceList:
+    - type: 0
+      currency:
+        rid: -2
+      product:
+        rid: -2
+      amount: 0
+      realPrice: $5.99
+    rewardList:
+    - type: 1
+      currency:
+        rid: 6880863021534281877
+      product:
+        rid: -2
+      amount: 2400
+      realPrice:
+    - type: 1
+      currency:
+        rid: 6880863021534281880
+      product:
+        rid: -2
+      amount: 1
+      realPrice:
+    requirement:
+      pairs: []
+      label:
+    nextUpgrade:
+      rid: -2
+  - referenceID: b5ec754b-19aa-461f-bdc2-beefa6f1ceea
+    ID: com.puzzle.sandscratch.noadsbundle
+    storeIDs: []
+    category:
+      rid: 6880862928584310958
+    type: 1
+    title: noadsbundle
+    description:
+    discount: 0
+    fetch: 1
+    icon: {fileID: 0}
+    priceList:
+    - type: 0
+      currency:
+        rid: -2
+      product:
+        rid: -2
+      amount: 0
+      realPrice: $14.99
+    rewardList:
+    - type: 1
+      currency:
+        rid: 6880863021534281877
+      product:
+        rid: -2
+      amount: 2000
+      realPrice:
+    - type: 1
+      currency:
+        rid: 6880863021534281880
+      product:
+        rid: -2
+      amount: 3
+      realPrice:
+    requirement:
+      pairs: []
+      label:
+    nextUpgrade:
+      rid: -2
+  - referenceID: 0f7edb9c-144f-4035-a7a8-39ae16c28d27
+    ID: com.puzzle.sandscratch.coin1000
+    storeIDs: []
+    category:
+      rid: 6880863021534281876
+    type: 0
+    title: coin1000
+    description:
+    discount: 0
+    fetch: 1
+    icon: {fileID: 0}
+    priceList:
+    - type: 0
+      currency:
+        rid: -2
+      product:
+        rid: -2
+      amount: 0
+      realPrice: $1.99
+    rewardList:
+    - type: 1
+      currency:
+        rid: 6880863021534281877
+      product:
+        rid: -2
+      amount: 1000
+      realPrice:
+    requirement:
+      pairs: []
+      label:
+    nextUpgrade:
+      rid: -2
+  - referenceID: b14f8001-a118-4f8a-b57f-2d3278701eb0
+    ID: com.puzzle.sandscratch.coin5000
+    storeIDs: []
+    category:
+      rid: 6880863021534281876
+    type: 0
+    title: coin5000
+    description:
+    discount: 0
+    fetch: 1
+    icon: {fileID: 0}
+    priceList:
+    - type: 0
+      currency:
+        rid: -2
+      product:
+        rid: -2
+      amount: 0
+      realPrice: $9.99
+    rewardList:
+    - type: 1
+      currency:
+        rid: 6880863021534281877
+      product:
+        rid: -2
+      amount: 5000
+      realPrice:
+    requirement:
+      pairs: []
+      label:
+    nextUpgrade:
+      rid: -2
+  - referenceID: c74ce17f-123a-4e80-b0e9-02232cd08503
+    ID: com.puzzle.sandscratch.coin10000
+    storeIDs: []
+    category:
+      rid: 6880863021534281876
+    type: 0
+    title: coin10000
+    description:
+    discount: 0
+    fetch: 1
+    icon: {fileID: 0}
+    priceList:
+    - type: 0
+      currency:
+        rid: -2
+      product:
+        rid: -2
+      amount: 0
+      realPrice: $18.99
+    rewardList:
+    - type: 1
+      currency:
+        rid: 6880863021534281877
+      product:
+        rid: -2
+      amount: 10000
+      realPrice:
+    requirement:
+      pairs: []
+      label:
+    nextUpgrade:
+      rid: -2
+  - referenceID: 6648b1f6-1498-4884-89cd-3c2f0a8c385a
+    ID: com.puzzle.sandscratch.coin25000
+    storeIDs: []
+    category:
+      rid: 6880863021534281876
+    type: 0
+    title: coin25000
+    description:
+    discount: 0
+    fetch: 1
+    icon: {fileID: 0}
+    priceList:
+    - type: 0
+      currency:
+        rid: -2
+      product:
+        rid: -2
+      amount: 0
+      realPrice: $39.99
+    rewardList:
+    - type: 1
+      currency:
+        rid: 6880863021534281877
+      product:
+        rid: -2
+      amount: 25000
+      realPrice:
+    requirement:
+      pairs: []
+      label:
+    nextUpgrade:
+      rid: -2
+  - referenceID: a806d41f-b956-4e52-a511-312a47afb1c8
+    ID: com.puzzle.sandscratch.coin50000
+    storeIDs: []
+    category:
+      rid: 6880863021534281876
+    type: 0
+    title: coin50000
+    description:
+    discount: 0
+    fetch: 1
+    icon: {fileID: 0}
+    priceList:
+    - type: 0
+      currency:
+        rid: -2
+      product:
+        rid: -2
+      amount: 0
+      realPrice: $69.99
+    rewardList:
+    - type: 1
+      currency:
+        rid: 6880863021534281877
+      product:
+        rid: -2
+      amount: 50000
+      realPrice:
+    requirement:
+      pairs: []
+      label:
+    nextUpgrade:
+      rid: -2
+  - referenceID: ee718af7-6ce7-42de-83f9-e35a13ede7e5
+    ID: com.puzzle.sandscratch.coin100000
+    storeIDs: []
+    category:
+      rid: 6880863021534281876
+    type: 0
+    title: coin100000
+    description:
+    discount: 0
+    fetch: 1
+    icon: {fileID: 0}
+    priceList:
+    - type: 0
+      currency:
+        rid: -2
+      product:
+        rid: -2
+      amount: 0
+      realPrice: $99.99
+    rewardList:
+    - type: 1
+      currency:
+        rid: 6880863021534281877
+      product:
+        rid: -2
+      amount: 100000
+      realPrice:
+    requirement:
+      pairs: []
+      label:
+    nextUpgrade:
+      rid: -2
+  - referenceID: 37caca62-4c49-415b-b1cf-ad2cee550eb9
+    ID: com.puzzle.sandscratch.minibundle
+    storeIDs: []
+    category:
+      rid: 6880863021534281878
+    type: 1
+    title: minibundle
+    description:
+    discount: 0
+    fetch: 1
+    icon: {fileID: 0}
+    priceList:
+    - type: 0
+      currency:
+        rid: -2
+      product:
+        rid: -2
+      amount: 0
+      realPrice: $9.99
+    rewardList:
+    - type: 1
+      currency:
+        rid: 6880863021534281877
+      product:
+        rid: -2
+      amount: 6000
+      realPrice:
+    - type: 1
+      currency:
+        rid: 6880863021534281879
+      product:
+        rid: -2
+      amount: 60
+      realPrice:
+    requirement:
+      pairs: []
+      label:
+    nextUpgrade:
+      rid: -2
+  - referenceID: e3a5cb41-4da6-48b1-af0e-74190a29a8c3
+    ID: com.puzzle.sandscratch.largebundle
+    storeIDs: []
+    category:
+      rid: 6880863021534281878
+    type: 1
+    title: largebundle
+    description:
+    discount: 0
+    fetch: 1
+    icon: {fileID: 0}
+    priceList:
+    - type: 0
+      currency:
+        rid: -2
+      product:
+        rid: -2
+      amount: 0
+      realPrice: $24.99
+    rewardList:
+    - type: 1
+      currency:
+        rid: 6880863021534281877
+      product:
+        rid: -2
+      amount: 10000
+      realPrice:
+    - type: 1
+      currency:
+        rid: 6880863021534281880
+      product:
+        rid: -2
+      amount: 3
+      realPrice:
+    - type: 1
+      currency:
+        rid: 6880863021534281879
+      product:
+        rid: -2
+      amount: 180
+      realPrice:
+    requirement:
+      pairs: []
+      label:
+    nextUpgrade:
+      rid: -2
+  - referenceID: b85c3028-23f0-4ed8-8ac0-bbea376c1840
+    ID: com.puzzle.sandscratch.superbundle
+    storeIDs: []
+    category:
+      rid: 6880863021534281878
+    type: 1
+    title: superbundle
+    description:
+    discount: 0
+    fetch: 1
+    icon: {fileID: 0}
+    priceList:
+    - type: 0
+      currency:
+        rid: -2
+      product:
+        rid: -2
+      amount: 0
+      realPrice: $39.99
+    rewardList:
+    - type: 1
+      currency:
+        rid: 6880863021534281877
+      product:
+        rid: -2
+      amount: 16000
+      realPrice:
+    - type: 1
+      currency:
+        rid: 6880863021534281880
+      product:
+        rid: -2
+      amount: 6
+      realPrice:
+    - type: 1
+      currency:
+        rid: 6880863021534281879
+      product:
+        rid: -2
+      amount: 360
+      realPrice:
+    requirement:
+      pairs: []
+      label:
+    nextUpgrade:
+      rid: -2
+  - referenceID: da9377e6-e071-4399-9105-31f909bc949d
+    ID: com.puzzle.sandscratch.gem30dollar
+    storeIDs: []
+    category:
+      rid: 6880863021534281889
+    type: 0
+    title: gem30dollar
+    description:
+    discount: 0
+    fetch: 1
+    icon: {fileID: 0}
+    priceList:
+    - type: 0
+      currency:
+        rid: -2
+      product:
+        rid: -2
+      amount: 0
+      realPrice:
+    rewardList:
+    - type: 1
+      currency:
+        rid: 6880863021534281890
+      product:
+        rid: -2
+      amount: 4000
+      realPrice:
+    requirement:
+      pairs: []
+      label:
+    nextUpgrade:
+      rid: -2
+  - referenceID: 000543fa-b761-430a-b07e-61c5793506a9
+    ID: com.puzzle.sandscratch.gem50dollar
+    storeIDs: []
+    category:
+      rid: 6880863021534281889
+    type: 0
+    title: gem50dollar
+    description:
+    discount: 0
+    fetch: 1
+    icon: {fileID: 0}
+    priceList:
+    - type: 0
+      currency:
+        rid: -2
+      product:
+        rid: -2
+      amount: 0
+      realPrice:
+    rewardList:
+    - type: 1
+      currency:
+        rid: 6880863021534281890
+      product:
+        rid: -2
+      amount: 7000
+      realPrice:
+    requirement:
+      pairs: []
+      label:
+    nextUpgrade:
+      rid: -2
+  - referenceID: 7b54d987-74ac-40d5-8aad-c20dc336e2de
+    ID: com.puzzle.sandscratch.gem100dollar
+    storeIDs: []
+    category:
+      rid: 6880863021534281889
+    type: 0
+    title: gem100dollar
+    description:
+    discount: 0
+    fetch: 1
+    icon: {fileID: 0}
+    priceList:
+    - type: 0
+      currency:
+        rid: -2
+      product:
+        rid: -2
+      amount: 0
+      realPrice:
+    rewardList:
+    - type: 1
+      currency:
+        rid: 6880863021534281890
+      product:
+        rid: -2
+      amount: 15000
+      realPrice:
+    requirement:
+      pairs: []
+      label:
+    nextUpgrade:
+      rid: -2
+  - referenceID: 87f4a81a-35f1-43f6-a536-4d1f1ce11ba6
+    ID: com.puzzle.sandscratch.battlepass
+    storeIDs: []
+    category:
+      rid: 911807584378814695
+    type: 0
+    title:
+    description:
+    discount: 0
+    fetch: 1
+    icon: {fileID: 0}
+    priceList:
+    - type: 0
+      currency:
+        rid: -2
+      product:
+        rid: -2
+      amount: 0
+      realPrice: $9.99
+    rewardList: []
+    requirement:
+      pairs: []
+      label:
+    nextUpgrade:
+      rid: -2
+  - referenceID: 7d3b376a-e67a-4ff2-b60b-32309e68770d
+    ID: com.puzzle.sandscratch.bundle.starter
+    storeIDs: []
+    category:
+      rid: 6880862855471038464
+    type: 0
+    title: Starter Pack
+    description: 500 coins + 3 boosters
+    discount: 0
+    fetch: 0
+    icon: {fileID: 0}
+    priceList:
+    - type: 0
+      currency:
+        rid: -2
+      product:
+        rid: -2
+      amount: 0
+      realPrice: $2.99
+    rewardList:
+    - type: 1
+      currency:
+        rid: 4738164351831376021
+      product:
+        rid: -2
+      amount: 500
+      realPrice:
+    - type: 1
+      currency:
+        rid: 4738164351831376022
+      product:
+        rid: -2
+      amount: 3
+      realPrice:
+    requirement:
+      pairs: []
+      label:
+    nextUpgrade:
+      rid: -2
+  - referenceID: 82175339-8347-4278-b9e2-d9047fcfef02
+    ID: com.puzzle.sandscratch.bundle.value
+    storeIDs: []
+    category:
+      rid: 6880862855471038464
+    type: 0
+    title: Value Pack
+    description: 1500 coins + 10 boosters
+    discount: 0
+    fetch: 0
+    icon: {fileID: 0}
+    priceList:
+    - type: 0
+      currency:
+        rid: -2
+      product:
+        rid: -2
+      amount: 0
+      realPrice: $5.99
+    rewardList:
+    - type: 1
+      currency:
+        rid: 4738164351831376021
+      product:
+        rid: -2
+      amount: 1500
+      realPrice:
+    - type: 1
+      currency:
+        rid: 4738164351831376022
+      product:
+        rid: -2
+      amount: 10
+      realPrice:
+    requirement:
+      pairs: []
+      label:
+    nextUpgrade:
+      rid: -2
+  - referenceID: bdc7f0d7-438c-47bd-898e-970918273488
+    ID: com.puzzle.sandscratch.bundle.mega
+    storeIDs: []
+    category:
+      rid: 6880862855471038464
+    type: 0
+    title: Mega Pack
+    description: 5000 coins + unlimited hearts 24h
+    discount: 0
+    fetch: 0
+    icon: {fileID: 0}
+    priceList:
+    - type: 0
+      currency:
+        rid: -2
+      product:
+        rid: -2
+      amount: 0
+      realPrice: $9.99
+    rewardList:
+    - type: 1
+      currency:
+        rid: 4738164351831376021
+      product:
+        rid: -2
+      amount: 5000
+      realPrice:
+    - type: 1
+      currency:
+        rid: 4738164351831376023
+      product:
+        rid: -2
+      amount: 1440
+      realPrice:
+    requirement:
+      pairs: []
+      label:
+    nextUpgrade:
+      rid: -2
+  customStoreConfig:
+    PayPal:
+      currencyCode: USD
+      sandbox:
+        clientID:
+        secretKey:
+      live:
+        clientID:
+        secretKey:
+      returnUrl:
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class:, ns:, asm:}
+      data: {}
+    - rid: 911807584378814695
+      type: {class: IAPCategory, ns: UniPay, asm: Assembly-CSharp}
+      data:
+        referenceID: c08b3258-153a-4184-852d-30f2fcfa8742
+        ID: OneTime
+        storeIDs: []
+    - rid: 911807634416074896
+      type: {class: IAPCategory, ns: UniPay, asm: Assembly-CSharp}
+      data:
+        referenceID: 3097ec21-dab5-4a80-82d4-1cfe4b4c54e7
+        ID: Category Gem
+        storeIDs: []
+    - rid: 4738164351831376021
+      type: {class: IAPCurrency, ns: UniPay, asm: Assembly-CSharp}
+      data:
+        referenceID: 220be08c-be6d-4e63-a0c7-48b629257b77
+        ID: coins
+        baseAmount: 0
+        maxAmount: 0
+        icon: {fileID: 21300000, guid: 0cd3bf9152aa798448bd50d76c2a453f, type: 2}
+    - rid: 4738164351831376022
+      type: {class: IAPCurrency, ns: UniPay, asm: Assembly-CSharp}
+      data:
+        referenceID: c8dc30cc-5084-4923-9261-4d4aba00d3f2
+        ID: all_booster
+        baseAmount: 0
+        maxAmount: 0
+        icon: {fileID: 0}
+    - rid: 4738164351831376023
+      type: {class: IAPCurrency, ns: UniPay, asm: Assembly-CSharp}
+      data:
+        referenceID: 62689d56-fa93-48cd-b276-5d7a49d38448
+        ID: infinite_heart
+        baseAmount: 0
+        maxAmount: 0
+        icon: {fileID: 0}
+    - rid: 6880862855471038464
+      type: {class: IAPCategory, ns: UniPay, asm: Assembly-CSharp}
+      data:
+        referenceID: c08b3258-153a-4184-852d-30f2fcfa8742
+        ID: OneTime
+        storeIDs: []
+    - rid: 6880862928584310958
+      type: {class: IAPCategory, ns: UniPay, asm: Assembly-CSharp}
+      data:
+        referenceID: c08b3258-153a-4184-852d-30f2fcfa8742
+        ID: OneTime
+        storeIDs: []
+    - rid: 6880862928584310967
+      type: {class: IAPCategory, ns: UniPay, asm: Assembly-CSharp}
+      data:
+        referenceID: c08b3258-153a-4184-852d-30f2fcfa8742
+        ID: OneTime
+        storeIDs: []
+    - rid: 6880863021534281876
+      type: {class: IAPCategory, ns: UniPay, asm: Assembly-CSharp}
+      data:
+        referenceID: 8dc6cc3d-a157-42fa-bb29-d8ea00e3423e
+        ID: Category Coin
+        storeIDs: []
+    - rid: 6880863021534281877
+      type: {class: IAPCurrency, ns: UniPay, asm: Assembly-CSharp}
+      data:
+        referenceID: 220be08c-be6d-4e63-a0c7-48b629257b77
+        ID: coins
+        baseAmount: 0
+        maxAmount: 0
+        icon: {fileID: 21300000, guid: 0cd3bf9152aa798448bd50d76c2a453f, type: 2}
+    - rid: 6880863021534281878
+      type: {class: IAPCategory, ns: UniPay, asm: Assembly-CSharp}
+      data:
+        referenceID: d2473fd0-9e26-4c5e-88e2-ca2f1718b4cb
+        ID: Category Pass
+        storeIDs: []
+    - rid: 6880863021534281879
+      type: {class: IAPCurrency, ns: UniPay, asm: Assembly-CSharp}
+      data:
+        referenceID: 62689d56-fa93-48cd-b276-5d7a49d38448
+        ID: infinite_heart
+        baseAmount: 0
+        maxAmount: 0
+        icon: {fileID: 0}
+    - rid: 6880863021534281880
+      type: {class: IAPCurrency, ns: UniPay, asm: Assembly-CSharp}
+      data:
+        referenceID: c8dc30cc-5084-4923-9261-4d4aba00d3f2
+        ID: all_booster
+        baseAmount: 0
+        maxAmount: 0
+        icon: {fileID: 0}
+    - rid: 6880863021534281889
+      type: {class: IAPCategory, ns: UniPay, asm: Assembly-CSharp}
+      data:
+        referenceID: 3097ec21-dab5-4a80-82d4-1cfe4b4c54e7
+        ID: Category Gem
+        storeIDs: []
+    - rid: 6880863021534281890
+      type: {class: IAPCurrency, ns: UniPay, asm: Assembly-CSharp}
+      data:
+        referenceID: e07bf7b8-a2cb-4045-b9f1-a2081452cfbe
+        ID: gems
+        baseAmount: 0
+        maxAmount: 0
+        icon: {fileID: 21300000, guid: 69a76bed6592d874ca08e42370528ab8, type: 2}
+    - rid: 7437101616570302498
+      type: {class: IAPCategory, ns: UniPay, asm: Assembly-CSharp}
+      data:
+        referenceID: 3097ec21-dab5-4a80-82d4-1cfe4b4c54e7
+        ID: Category Gem
+        storeIDs: []
+    - rid: 7437101620655292429
+      type: {class: IAPCategory, ns: UniPay, asm: Assembly-CSharp}
+      data:
+        referenceID: 3097ec21-dab5-4a80-82d4-1cfe4b4c54e7
+        ID: Category Gem
+        storeIDs: []
+    - rid: 7437101620655292430
+      type: {class: IAPCurrency, ns: UniPay, asm: Assembly-CSharp}
+      data:
+        referenceID: e07bf7b8-a2cb-4045-b9f1-a2081452cfbe
+        ID: gems
+        baseAmount: 0
+        maxAmount: 0
+        icon: {fileID: 21300000, guid: 69a76bed6592d874ca08e42370528ab8, type: 2}
+    - rid: 7437101644421005312
+      type: {class: IAPCategory, ns: UniPay, asm: Assembly-CSharp}
+      data:
+        referenceID: 54cdb1f5-ccdd-498a-bb7b-a658b4bf7532
+        ID: Category Subscription
+        storeIDs: []
+    - rid: 7437101644421005313
+      type: {class: IAPProduct, ns: UniPay, asm: Assembly-CSharp}
+      data:
+        referenceID: 1ed04267-1ad7-467b-8732-888849bb44d6
+        ID: com.puzzle.sandscratch.testsubsyearly
+        storeIDs: []
+        category:
+          rid: 7437101644421005312
+        type: 2
+        title:
+        description:
+        discount: 0
+        fetch: 0
+        icon: {fileID: 0}
+        priceList:
+        - type: 0
+          currency:
+            rid: -2
+          product:
+            rid: -2
+          amount: 0
+          realPrice: 49.99 $
+        rewardList:
+        - type: 2
+          currency:
+            rid: -2
+          product:
+            rid: 7437101644421005313
+          amount: 1
+          realPrice:
+        requirement:
+          pairs: []
+          label:
+        nextUpgrade:
+          rid: -2
+    - rid: 7437101644421005314
+      type: {class: IAPProduct, ns: UniPay, asm: Assembly-CSharp}
+      data:
+        referenceID: f9470693-026e-4c27-a740-081fd3f78831
+        ID: com.puzzle.sandscratch.testsubsmonthly
+        storeIDs: []
+        category:
+          rid: 7437101644421005312
+        type: 2
+        title:
+        description:
+        discount: 0
+        fetch: 0
+        icon: {fileID: 0}
+        priceList:
+        - type: 0
+          currency:
+            rid: -2
+          product:
+            rid: -2
+          amount: 0
+          realPrice: 9.99 $
+        rewardList:
+        - type: 2
+          currency:
+            rid: -2
+          product:
+            rid: 7437101644421005314
+          amount: 1
+          realPrice:
+        requirement:
+          pairs: []
+          label:
+        nextUpgrade:
+          rid: -2

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c95eb0881b58c7874f6696adb925d88e, type: 3}
+  m_Name: SandFlowConfig
+  m_EditorClassIdentifier:
+  conveyorShapeData: {fileID: 11400000, guid: e20e417703b30c845a962b3eb885e525, type: 2}
+  tuningConfig: {fileID: 11400000, guid: e4f8015b56a482a4c873b0a7d5647c80, type: 2}
+  layoutConfig: {fileID: 11400000, guid: 8811db16cb54b5a4989fbe6116909426, type: 2}
+  frozenShapeLibrary: {fileID: 11400000, guid: 3924704370a3e77488db91d8cd3bce55, type: 2}

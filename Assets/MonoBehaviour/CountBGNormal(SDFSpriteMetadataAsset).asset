@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1342230471, guid: f5c1a6a2b2c7b125f7135fc75ba4a973, type: 3}
+  m_Name: CountBGNormal(SDFSpriteMetadataAsset)
+  m_EditorClassIdentifier:
+  _metadata:
+    SourceSprite: {fileID: 21300000, guid: 852574595e39a6e478652fa58e2e88a9, type: 2}
+    SDFSprite: {fileID: 21300000, guid: 33f17b01036a3d541960b7e0982c1ba7, type: 2}
+    BorderOffset: {x: 64, y: 64, z: 64, w: 64}
+  _isImportedDecoupled: 0
